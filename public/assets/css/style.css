@@ -3,8 +3,7 @@ body{
   background-color: #ffaa99;
   width: 100%;
   flex-direction: column;
-  justify-content: center;
-
+  /* justify-content: center; */
 }
 /* /* background-image: url("../images/bacon-cheddar-burger.png"); */
 button{
@@ -17,4 +16,8 @@ input{
 }
 img{
   width: 30%;
+}
+.image{
+  display: flex;
+  justify-content: center
 }
