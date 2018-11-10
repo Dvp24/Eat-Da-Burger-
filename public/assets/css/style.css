@@ -15,10 +15,10 @@ input{
   border-radius: 5px
 }
 img{
-  width: 30%;
-  height: 30%;
+  width: 25%;
+  height: 25%;
 }
-.image{
+.image, div{
   display: flex;
   justify-content: center
 }
