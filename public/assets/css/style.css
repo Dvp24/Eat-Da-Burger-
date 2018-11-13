@@ -3,6 +3,7 @@ body{
   background-color: #ffaa99;
   width: 100%;
   flex-direction: column;
+  text-align: center;
   /* justify-content: center; */
 }
 /* /* background-image: url("../images/bacon-cheddar-burger.png"); */
@@ -22,6 +23,6 @@ img{
   display: flex;
   justify-content: center
 }
-.h4, .create-form{
+ .create-form{
   margin-left: 400px;
 }
