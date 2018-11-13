@@ -11,7 +11,7 @@ button{
   border-color: red;
   border-radius: 5px;
 }
-input, #submit{
+input{
   border-radius: 5px
 }
 img{
@@ -22,6 +22,6 @@ img{
   display: flex;
   justify-content: center
 }
-h2,h4 {
-margin-left: 350px
+.h4{
+  margin-left: 400px;
 }
