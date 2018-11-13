@@ -22,6 +22,6 @@ img{
   display: flex;
   justify-content: center
 }
-.h4, .form-group{
+.h4, .create-form{
   margin-left: 400px;
 }
