@@ -23,3 +23,6 @@ img{
   display: flex;
   justify-content: center
 }
+.burgers-list, .devoured-list{
+  flex-direction: column;
+}
