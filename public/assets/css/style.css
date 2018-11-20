@@ -19,10 +19,11 @@ img{
   width: 25%;
   height: 25%;
 }
-.image, div{
+.image, .burger-lists{
   display: flex;
-  justify-content: center
+  justify-content: center;
+  flex-direction: row;
 }
 .burgers-list, .devoured-list{
-  flex-direction: column;
+  /* flex-direction: column; */
 }
